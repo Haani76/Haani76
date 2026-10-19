@@ -1,13 +1,13 @@
 # Hi, I'm Haani Siddiqui 👋
 
-**Technical Support Engineer & Implementation Specialist** in healthcare SaaS · Lahore, Pakistan (remote, US clients)
+**Technical Support Engineer & Implementation Specialist** in healthcare SaaS · Pakistan (remote, US clients)
 
 I work where clinical imaging meets software: onboarding radiology and vascular clinics, wiring imaging devices and EMRs together over DICOM and HL7, and debugging what breaks in between. When manual work gets repetitive, I automate it in Python.
 
 - 🏥 **Now:** Technical Support Engineer at SarcMedIQ (AI healthcare SaaS), since Dec 2023
 - 🧰 **Day to day:** DICOM Modality Worklist, C-STORE/C-FIND/C-MOVE, Epic and athenahealth integrations, Sentry + AWS RDS SQL for root-cause analysis
 - ⚙️ **Automation I've built:** a DICOM OCR tool that cut manual extraction time by 80%, and a DICOM SR mapping script that cut mapping time by 60%
-- 🎓 **Background:** BS Software Engineering; MSc research in Water Resources Engineering (ANN streamflow prediction)
+- 🎓 **Background:** MSc research in Water Resources Engineering (ANN streamflow prediction)
 
 ---
 
