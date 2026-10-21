@@ -34,7 +34,6 @@ I work where clinical imaging meets software: onboarding radiology and vascular 
 | [HydroSentinel](https://github.com/Haani76/HydroSentinel-Flood-Intelligence-Early-Warning-System) | Flood early-warning platform using live USGS streamflow and an ML ensemble | Python, ML ensemble, real-time APIs |
 | [ANN-Streamflow-Prediction](https://github.com/Haani76/ANN-Streamflow-Prediction) | My MSc research: 125 ANN architectures benchmarked for streamflow prediction, with a live dashboard | TensorFlow, FastAPI, Streamlit |
 | [hydroml-fusion](https://github.com/Haani76/hydroml-fusion) | Ensemble forecasting combining GR4J, XGBoost and attention-LSTM | Python, XGBoost, LSTM |
-| [student-result-system](https://github.com/Haani76/student-result-system) | Multi-school result management with JWT auth, grading and class rankings | Full-stack web |
 
 ---
 
