@@ -6,7 +6,7 @@ I work where clinical imaging meets software: onboarding radiology and vascular 
 
 - 🏥 **Now:** Technical Support Engineer at SarcMedIQ (AI healthcare SaaS), since Dec 2023
 - 🧰 **Day to day:** DICOM Modality Worklist, C-STORE/C-FIND/C-MOVE, Epic and athenahealth integrations, Sentry + AWS RDS SQL for root-cause analysis
-- ⚙️ **Automation I've built:** a DICOM OCR tool that cut manual extraction time by 80%, and a DICOM SR mapping script that cut mapping time by 60%
+- ⚙️ **Automation I've built:** a DICOM OCR tool that cut manual extraction time by 80%,a DICOM to PDF tool and a DICOM SR mapping script that cut mapping time by 60%
 - 🎓 **Background:** MSc research in Water Resources Engineering (ANN streamflow prediction)
 
 ---
