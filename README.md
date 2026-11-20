@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · haani76</sub></p>
 <h1>Haani Siddiqui</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Technical Support Engineer</h2>
 <p>Technical Support Engineer · Healthcare IT (DICOM, HL7, EMR integration) · Python automation</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Lahore, Pakistan</sub></p>
