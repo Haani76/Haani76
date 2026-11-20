@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · HTML · TypeScript</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Technical Support Engineer/Frontend  · Python · HTML · CSS</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>14 repositories · 1 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>52 contributions · 14 active days</p></td>
 </tr>
